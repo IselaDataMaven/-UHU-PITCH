@@ -19,7 +19,7 @@
 
 ## 🚀 Enlace al Proyecto en Vivo (Vercel)
 Puedes explorar la experiencia interactiva directamente en producción:
-👉 **[Ver ÑUHU Resonance en Vercel](#)** *(agrega aquí tu enlace de Vercel cuando esté desplegado)*
+👉 **[[Ver ÑUHU Resonance en Vercel](https://uhu-pitch-xq8f.vercel.app/)](#)** *(agrega aquí tu enlace de Vercel cuando esté desplegado)*
 
 <br>
 
